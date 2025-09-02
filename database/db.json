@@ -1,0 +1,215 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    },
+    {
+      "id": "2",
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "discountPercentage": 17.94,
+      "rating": 4.69,
+      "stock": 34,
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Samsung Universe 9",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1249,
+      "discountPercentage": 15.46,
+      "rating": 4.69,
+      "stock": 36,
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg"
+    },
+    {
+      "id": "4",
+      "title": "HP Pavilion 15-DK1056WM",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "price": 1099,
+      "discountPercentage": 6.18,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
+    },
+    {
+      "id": "5",
+      "title": "Eau De Perfume Spray",
+      "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+      "price": 30,
+      "discountPercentage": 10.99,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Hyaluronic Acid Serum",
+      "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+      "price": 19,
+      "discountPercentage": 13.31,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Tree Oil 30ml",
+      "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+      "price": 12,
+      "discountPercentage": 4.09,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Freckle Treatment Cream- 15gm",
+      "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
+      "price": 70,
+      "discountPercentage": 16.99,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Demo8",
+      "description": "sdasdas",
+      "price": 0,
+      "discountPercentage": 0,
+      "rating": 4.69,
+      "stock": 0,
+      "category": "smartphones",
+      "thumbnail": "/uploads/1753259302176-285135113-home.png"
+    },
+    {
+      "id": "10",
+      "title": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 280,
+      "discountPercentage": 17.91,
+      "rating": 4.69,
+      "stock": 123,
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+    },
+    {
+      "id": "bb56",
+      "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.QFpdj3RVQRCeozn8iiDOdAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "title": "Điện thoại Samsung Galaxy A14 5G 4GB/128GB Đen",
+      "category": "1",
+      "price": "100000",
+      "discountPercentage": "10",
+      "stock": "10",
+      "description": "sádsadasda"
+    },
+    {
+      "id": "03cf",
+      "title": "Điện thoại Samsung Galaxy A14 5G 4GB/128GB Đen",
+      "price": "500000",
+      "discountPercentage": "30",
+      "stock": "10",
+      "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.QFpdj3RVQRCeozn8iiDOdAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "description": "sdsadasda"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "smartphones"
+    },
+    {
+      "id": "2",
+      "name": "laptops"
+    },
+    {
+      "id": "3",
+      "name": "fragrances"
+    },
+    {
+      "id": "4",
+      "name": "skincare"
+    },
+    {
+      "id": "5",
+      "name": "groceries"
+    },
+    {
+      "id": "6",
+      "name": "home-decoration"
+    },
+    {
+      "id": "7",
+      "name": "furniture"
+    },
+    {
+      "id": "8",
+      "name": "tops"
+    },
+    {
+      "id": "9",
+      "name": "womens-dresses"
+    },
+    {
+      "id": "10",
+      "name": "womens-shoes"
+    },
+    {
+      "id": "11",
+      "name": "mens-shirts"
+    },
+    {
+      "id": "12",
+      "name": "mens-shoes"
+    },
+    {
+      "id": "13",
+      "name": "mens-watches"
+    },
+    {
+      "id": "14",
+      "name": "womens-watches"
+    },
+    {
+      "id": "15",
+      "name": "womens-bags"
+    },
+    {
+      "id": "16",
+      "name": "womens-jewellery"
+    },
+    {
+      "id": "17",
+      "name": "sunglasses"
+    },
+    {
+      "id": "18",
+      "name": "automotive"
+    },
+    {
+      "id": "19",
+      "name": "motorcycle"
+    },
+    {
+      "id": "20",
+      "name": "lighting"
+    }
+  ]
+}
